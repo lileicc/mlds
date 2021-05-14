@@ -1,0 +1,4 @@
+sst.mat:  The sea-surface temperature (SST) dataset consists of a 5-by-6 grid from 5 degrees north, 180 degrees west to 5 degrees south, 110 degrees W of sea-surface temperatures recorded hourly from 7:00PM on April 26, 1994  until 3:00AM on July 19, 1994, yielding 2000 epochs.
+tesla.mat:  The Tesla dataset consists of the opening, closing, high, low, and volume of the stock prices of 12 car and oil companies (e.g., Tesla Motors Inc.), from June 29, 2010 to May 10, 2013 (724 epochs).
+nasdaq100.mat:  The NASDAQ-100 dataset consists of the opening, closing, adjusted-closing, high, low, and volume of the stock prices of 20 NASDAQ-100 companies chosen at random, from January 1, 2005 until December 31, 2009 (1259 epochs).
+video.mat:  The Video dataset consists of a video sequence of 1171 grayscale frames of ocean surf during low tide.  This dataset was chosen because it is a recording of a periodic natural scene.
